@@ -1,7 +1,7 @@
 <strong>This Example with Javascript</strong>
 
 functionGetPrice(){
-      let val = **29** *//change Quatity Buy*
+        let val = **29** *//change Quatity Buy*
         const priceOneUnit = **3000** *// example for Buy 1-5 Unit*
         const priceSeries = **2000** *//example forBuy 6 and multiple 6*
         const priceGrocery = **1000** *//example for buy 20 and multiple 20*
