@@ -6,7 +6,7 @@
 
 ​        `let val = 29` <!--change Quatity Buy-->
 
-​        ``const priceOneUnit = 3000` <!-- example for Buy 1-5 Unit-->
+​        `const priceOneUnit = 3000` <!-- example for Buy 1-5 Unit-->
 
 ​        `const priceSeries = 2000` <!--/example forBuy 6 and multiple 6-->
 
