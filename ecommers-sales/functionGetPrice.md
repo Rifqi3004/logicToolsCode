@@ -1,3 +1,7 @@
+**This example with javascript**
+
+
+
 `functionGetPrice(){`
 
 ​        `let val = 29` <!--change Quatity Buy-->
